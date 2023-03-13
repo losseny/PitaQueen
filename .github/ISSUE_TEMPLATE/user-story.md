@@ -16,6 +16,6 @@ assignees: ''
 # Definition of Done
 > ## Back-end
 > ## Front-end
-# Taken
+# Task
 > ## Back-end
 > ## Front-end
