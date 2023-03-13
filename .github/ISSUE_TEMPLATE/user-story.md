@@ -8,6 +8,14 @@ assignees: ''
 ---
 
 # Description
+
+> ## Function
+> ## Restrictions
+# Use Case Flow
 # Definition of Ready
 # Definition of Done
+> ## Back-end
+> ## Front-end
 # Taken
+> ## Back-end
+> ## Front-end
